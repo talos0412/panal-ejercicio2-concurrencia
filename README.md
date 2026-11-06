@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="60" style="vertical-align: middle;" alt="Abeja"> Ejercicio 2: Ejecución con Concurrencia - Recolección en Enjambre <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="60" style="vertical-align: middle;" alt="Abeja">
+# <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="40" style="vertical-align: middle;" alt="Abeja"> Ejercicio 2: Ejecución con Concurrencia - Recolección en Enjambre <img src="https://media.tenor.com/GvP5WfH4AKgAAAAj/bee-minecraft.gif" width="40" style="vertical-align: middle;" alt="Abeja">
 
 
 
